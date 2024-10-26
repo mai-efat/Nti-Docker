@@ -17,7 +17,9 @@ Docker Compose: A tool for defining and running multi-container Docker applicati
 Prerequisites
 
    1- Docker: Ensure Docker is installed on your machine.
+
    2- Docker Compose: Make sure Docker Compose is also installed.
+   
 ```
 
    
